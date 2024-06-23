@@ -1,0 +1,3 @@
+# keep current manual config
+lib/util/constants.js
+lib/util/errors.js
